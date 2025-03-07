@@ -1,0 +1,5 @@
+ID,Name,Details
+1,Alice,"{""age"": 25, ""city"": ""New York"", ""skills"": [""Python"", ""SQL""]}"
+2,Bob,"{""age"": 30, ""city"": ""San Francisco"", ""skills"": [""Java"", ""Spring""]}"
+3,Charlie,"{""age"": 28, ""city"": ""Los Angeles"", ""skills"": [""JavaScript"", ""React""]}"
+4,David,"{""age"": 35, ""city"": ""Chicago"", ""skills"": [""C#"", ""Azure""]}"
